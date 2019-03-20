@@ -1,33 +1,21 @@
-# Noexes
+# Noexes Atmosphere SysModule 
 
-A multi-platform graphical remote debugger for the Nintendo Switch.
+A multi-platform graphical remote debugger for the Nintendo Switch on Atmosphere Custom Firmware.
 
 ## Quick Start Guide
 
 ### Pre-Requisites
 
-* [Hekate](https://github.com/CTCaer/hekate) on your switch
+* [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/releases) on your switch
 * [Java 10](https://www.oracle.com/technetwork/java/javase/downloads/jre10-downloads-4417026.html) installed on your PC
 
 ### Downloading
 
-Visit out [releases](/releases) page, and download the [latest](/releases/latest) version, and extract the whole zip file to a directory on your machine.
+Go to Releases Page.
 
 ### Copying Files
 
-Copy ```noexs.kip1``` to the root of your switch sd card.
-
-### Editing ```hekate_ipl.ini```
-
-Using a text editor open ```hekate_ipl.ini``` (located within the bootloader directory on your switch's sd card) and add the following:
-
-```
-[Noexes]
-debugmode=1
-kip1=noexs.kip1
-```
-
-And that's it switch sided! Now just select "Noexes" when booting using hekate to launch HOS with noexes running.
+Extract the downloaded release archive and copy the "0100000000000038" Directory to your SD card "/atmosphere/titles/"
 
 ### Running the Client
 
