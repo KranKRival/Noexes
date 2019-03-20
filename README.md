@@ -13,7 +13,7 @@ A multi-platform graphical remote debugger for the Nintendo Switch on Atmosphere
 
 Go to Releases Page.
 
-### Copying Files
+### Installing the SysModule
 
 Extract the downloaded release archive and copy the "0100000000000038" Directory to your SD card "/atmosphere/titles/"
 
