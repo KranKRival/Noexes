@@ -15,7 +15,7 @@ A multi-platform graphical remote debugger for the Nintendo Switch on Atmosphere
 
 ### Downloading
 
-Go to Releases Page.
+* Go to[Releases](https://github.com/KranKRival/Noexes/releases) Page
 
 ### Installing the SysModule
 
