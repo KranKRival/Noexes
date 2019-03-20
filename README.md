@@ -1,5 +1,7 @@
 # Noexes Atmosphere SysModule 
 
+Noexes Atmosphere SysModule is modification of Noexes Kip to work as fs_mitm SysModule in Atmosphere CFW 
+
 This can work aside with Sys-Ftpd SysModule !
 
 A multi-platform graphical remote debugger for the Nintendo Switch on Atmosphere Custom Firmware.
