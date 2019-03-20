@@ -1,5 +1,7 @@
 # Noexes Atmosphere SysModule 
 
+This can work aside with Sys-Ftpd SysModule !
+
 A multi-platform graphical remote debugger for the Nintendo Switch on Atmosphere Custom Firmware.
 
 ## Quick Start Guide
@@ -63,3 +65,4 @@ This project is licensed under GNU General Public License v3.0 - see the [LICENS
 
 * L0nk, dcx2 and a bunch of others from the old WiiRd fourms
 * roblabla for their near endless help, and for putting up with my inane questions
+*Some Extra Credits - AnalogMan "thanks for your time into this :P"
